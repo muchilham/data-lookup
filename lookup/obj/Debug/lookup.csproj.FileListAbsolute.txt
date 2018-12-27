@@ -1,0 +1,10 @@
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\bin\Debug\lookup.exe.config
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\bin\Debug\lookup.exe
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\bin\Debug\lookup.pdb
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\obj\Debug\lookup.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\obj\Debug\lookup.DataLookUp.resources
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\obj\Debug\lookup.Form1.resources
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\obj\Debug\lookup.Properties.Resources.resources
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\obj\Debug\lookup.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\obj\Debug\lookup.exe
+c:\users\home\documents\visual studio 2013\Projects\lookup\lookup\obj\Debug\lookup.pdb
